@@ -1,7 +1,7 @@
 # Software Requirement Specification 
 
 ## 1. Introduction
-### 1.1 purpose :
+### 1.1 Purpose :
 this document serves for a Logs Managment System . This system will Extract , Transform , Filter and Visulize logs .
 
 ### 1.2 Scope :
