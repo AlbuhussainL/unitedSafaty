@@ -1,4 +1,4 @@
-# README File 
+# README 
 ### This project focuses on implementing a system that extracts , transforms and visualizes CSE logs . 
 #### This project involves :
 - Extract CSE log data from Genetec 
