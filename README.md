@@ -1,5 +1,5 @@
 # README File 
-### This project focuses on implementing a system that extracts , transforms and visualizes CSE logs from Gentec systems . 
+### This project focuses on implementing a system that extracts , transforms and visualizes CSE logs . 
 #### This project involves :
 - Extract CSE log data from Genetec 
 - Expose Restful API endpoints using FastAPI to access and filter data 
