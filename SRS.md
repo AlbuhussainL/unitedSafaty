@@ -19,9 +19,9 @@ This System composed of :
 
  
  ## 3. Opreating environments :
--Python +3.13 ,FastAPI 
--PowerBI 
--Genetec
+- Python +3.13 ,FastAPI 
+- PowerBI 
+- Genetec
 
 ## 4. Functional Requirements :
 - FR1 : The system shall be able to extract , transform and load CSE logs
