@@ -3,7 +3,6 @@
 #### This project involves :
 - Extract CSE log data from Genetec 
 - Expose Restful API endpoints using FastAPI to access and filter data 
-- integrate gas readings captured by BOS
 - Expose PowerBI for frontend access of data visulization
 
 #### objective :
