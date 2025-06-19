@@ -13,4 +13,6 @@
 
 ### Requirements to use the system :
 - Python 3.8+
-
+- FastAPI 
+- PowerBI 
+- Genetec
