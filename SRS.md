@@ -8,7 +8,6 @@ this document serves for a Logs Managment System . This system will Extract , Tr
 The system should be able to :
 - Extract CSE log data from Genetec 
 - Expose Restful API endpoints using FastAPI to access and filter data 
-- integrate gas readings captured by BOS
 - Expose PowerBI for frontend access of data visulization
 
 
